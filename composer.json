@@ -1,0 +1,29 @@
+{
+    "name": "RKREZA/Contact",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Md Rezaul Karim",
+            "email": "rkreza24@gmail.com"
+        }
+    ],
+    "require": {
+        "bagisto/laravel-user": "dev-master",
+        "bagisto/laravel-ui": "dev-master",
+        "bagisto/laravel-core": "dev-master"
+    },
+    "autoload": {
+        "psr-4": {
+            "RKREZA\\Contact\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "RKREZA\\Contact\\Providers\\ContactServiceProvider"
+            ],
+            "aliases": {}
+        }
+    },
+    "minimum-stability": "dev"
+}
