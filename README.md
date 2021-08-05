@@ -7,7 +7,7 @@
 
 ### Installation and Configuration
 
-##### a. Download & Extract the contents of zip and execute it
+##### a. Download & Extract the contents of zip
 
 ##### b. Create folder "RKREZA" inside "packages" folder & copy the "Contact" folder inside it
 
