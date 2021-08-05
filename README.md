@@ -19,19 +19,11 @@
 
 ##### f. Run the following command
 		~~~
-		* **composer dump-autoload**
-		~~~
-		~~~
-		* **php artisan migrate**
-		~~~
-		~~~
-		* **php artisan config:cache**
-		~~~
-		~~~
-		* **php artisan view:cache**
-		~~~
-		~~~
-		* **php artisan route:cache**
+		composer dump-autoload
+		php artisan migrate
+		php artisan config:cache
+		php artisan view:cache
+		php artisan route:cache
 		~~~
 
-##### G. Now, you are good to go. Access the contact form at 'yourdomain.com/contact' & Messages list in admin panel at 'yourdomain.com/admin/contact'
+##### g. Now, you are good to go. Access the contact form at 'yourdomain.com/contact' & Messages list in admin panel at 'yourdomain.com/admin/contact'
